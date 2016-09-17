@@ -16,10 +16,12 @@ namespace ExerciseSessionwithLathaI.SectionB
             {
 
                 Console.WriteLine("Enter the salary");
-
-
-
-
+                double sal = Convert.ToDouble(Console.ReadLine());
+                double  Houall= 0.1 * sal;
+                double traall= 0.03 * sal;
+                double totalsal= sal+Houall+ traall;
+                Console.WriteLine("Input\t\t\t\t\t Output");
+                Console.WriteLine("{0}\t\t\t\t\t{1}",sal,totalsal);
 
             }
 
