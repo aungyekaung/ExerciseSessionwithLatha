@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExerciseSessionwithLathaI
 {
-    class Program
+    class FirstDay
     {
         static void Main(string[] args)
         {
