@@ -10,7 +10,8 @@ namespace ExerciseSessionwithLathaI.SectionB
     {
         public static void Main()
         {
-            int no = 3;
+            
+
             for (int i = 0; i < 3;i++ )
             {
                 Console.WriteLine("Enter the temperature ");

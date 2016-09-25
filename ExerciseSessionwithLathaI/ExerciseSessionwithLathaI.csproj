@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ExerciseSessionwithLathaI.SectionB.B5</StartupObject>
+    <StartupObject>ExerciseSessionwithLathaI.SectionB.B3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
