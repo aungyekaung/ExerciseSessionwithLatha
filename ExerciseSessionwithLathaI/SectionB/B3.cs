@@ -11,6 +11,7 @@ namespace ExerciseSessionwithLathaI.SectionB
     {
     public static void Main()
         {
+            double sal;
             Console.WriteLine("Enter the Employees' No");
             int empno = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Input\t\t\t\t\t Output");
@@ -18,12 +19,12 @@ namespace ExerciseSessionwithLathaI.SectionB
             {
 
                 //Console.WriteLine("Enter the salary");
-                double sal = Convert.ToDouble(Console.ReadLine());
+
+                Double.TryParse(Console.ReadLine(), out sal);
                 double  Houall= 0.1 * sal;
                 double traall= 0.03 * sal;
                 double totalsal= sal+Houall+ traall;
                 Console.WriteLine("{0}\t\t\t\t\t{1}",sal,totalsal);
-                Console.WriteLine("Hello");
 
             }
 
