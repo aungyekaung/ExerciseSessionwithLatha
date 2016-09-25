@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace ExerciseSessionwithLathaI.SectionB
 {
     class B3
@@ -22,6 +23,7 @@ namespace ExerciseSessionwithLathaI.SectionB
                 double traall= 0.03 * sal;
                 double totalsal= sal+Houall+ traall;
                 Console.WriteLine("{0}\t\t\t\t\t{1}",sal,totalsal);
+                Console.WriteLine("Hello");
 
             }
 
