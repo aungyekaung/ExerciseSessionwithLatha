@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ExerciseSessionwithLathaI.SectionB.B7</StartupObject>
+    <StartupObject>ExerciseSessionwithLathaI.SectionB.B8</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,6 +54,7 @@
     <Compile Include="SectionB\B5.cs" />
     <Compile Include="SectionB\B6.cs" />
     <Compile Include="SectionB\B7.cs" />
+    <Compile Include="SectionB\B8.cs" />
     <Compile Include="SectionGExercis1.cs" />
   </ItemGroup>
   <ItemGroup>
