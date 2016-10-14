@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ExerciseSessionwithLathaI.SectionC.c5</StartupObject>
+    <StartupObject>ExerciseSessionwithLathaI.Section_D.D3b</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,11 +47,16 @@
     <Compile Include="Class1.cs" />
     <Compile Include="FirstDay%2817.9.2016%29.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Section D\D1.cs" />
+    <Compile Include="Section D\D2.cs" />
+    <Compile Include="Section D\D3a.cs" />
+    <Compile Include="Section D\D3b.cs" />
     <Compile Include="SectionB\B9.cs" />
     <Compile Include="SectionC\C2.cs" />
     <Compile Include="SectionC\C3.cs" />
     <Compile Include="SectionC\c4.cs" />
     <Compile Include="SectionC\c5.cs" />
+    <Compile Include="SectionC\c6.cs" />
     <Compile Include="SectionC\Section c.cs" />
     <Compile Include="SectionB\B1.cs" />
     <Compile Include="SectionB\B10.cs" />
